@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADOÇÃO RESPONSÁVEL</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="apelido">Apelido</string>
+    <string name="tamanho">Tamanho</string>
+    <string name="localidade">Localidade</string>
+    <string name="sexo">Sexo</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar_cadastro">Editar Cadastro</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
